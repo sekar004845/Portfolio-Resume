@@ -1,0 +1,588 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.container{
+	margin:auto;
+	width:100%;
+}
+.section{
+	
+	padding:150px;
+	background-color:#0a1228c2;
+	
+}
+.section1{
+	padding-top:100px;
+}
+.column{
+	color:white;
+	font-size:x-large;
+	line-height:70px;
+}
+strong{
+	color:gold;
+}
+.container1{
+	margin:auto;
+	width:80%;
+}
+b{
+	color:red;
+}
+img{
+	max-width:100%;
+}
+.row1{
+	display:flex;
+}
+.col{
+	text-align:center;
+	font-size:25px;
+	color:blue;
+}
+.column1{
+	width:50%;
+	padding-top:80px;
+
+}
+.about{
+	line-height:30px;
+    font-size: x-large;
+}
+.objective p{
+	line-height:30px;
+    font-size: x-large;
+}
+.objective h1{
+	font-size:25px;
+	color:blue;
+    padding-bottom:10px;
+}
+.objective{
+	padding-top:60px;
+}
+.col1{
+	width:50%;
+}
+.col1 img{
+	border-radius:10%;
+}
+.buttoncv a{
+	text-decoration:none;
+	background-color:blue;
+	padding:10px;
+	border-radius:5px;
+	color:white;
+}
+.buttoncv{
+	padding:50px;
+	text-align:center;
+}
+.section2{
+	padding-top:100px;
+}
+.container2{
+	margin:auto;
+	width:80%;
+}
+.col2{
+	text-align:center;
+	color:blue;
+	font-size:25px;
+	padding-bottom:50px;
+}
+.column2{
+	display:flex;
+	flex-wrap:wrap;
+}
+.skillsimg1{
+	width:33.3%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:5%;
+}
+progress{
+	width:100%;
+	border-radius:0px;
+}
+.skillsimg2{
+	width:33.3%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:5%;
+}
+.skillsimg3{
+	width:33.3%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:5%;
+}
+.skillsimg4{
+	width:33.3%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:5%;
+}
+.skillsimg5{
+	width:33.3%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:5%;
+}
+.skillsimg6{
+	width:33.3%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:5%;
+}
+.skillsimg6 img{
+	padding-top:57px;
+}
+.project-sec{
+	padding-top:100px;
+}
+.project-sec h1{
+	text-align:center;
+	font-size:25px;
+	color:blue;
+}
+.container-sec{
+	margin:auto;
+	width:80%;
+	padding-top:50px;
+}
+.project-click{
+	padding:10px;
+	text-align:center;
+}
+.project-click a{
+	text-decoration:none;
+	background-color:blue;
+	padding:10px;
+	border-radius:5px;
+	color:white;
+}
+.section3{
+	padding-top:100px;
+}
+.container3{
+	margin:auto;
+	width:80%;
+}
+.col3{
+	text-align:center;
+	color:blue;
+	font-size:25px;
+	padding-bottom:50px;
+}
+.row3{
+	display:flex;
+}
+.column3{
+	width:50%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:50px;
+}
+.training{
+	width:50%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:50px;
+}
+.coleducation1{
+	color:blue;
+	font-size:25px;
+}
+.training1{
+	color:blue;
+	font-size:25px;
+}
+.coleducation2{
+	font-size: x-large;
+}
+.training2{
+	font-size: x-large;
+}
+.section4{
+	padding-top:100px;
+}
+.container4{
+	margin:auto;
+	width:80%;
+}
+.col4{
+	text-align:center;
+	color:blue;
+	font-size:25px;
+	padding-bottom:50px;
+}
+.row4{
+	display:flex;
+}
+.column4{
+	width:25%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+    padding:50px;
+	text-align:center;
+}
+.column5{
+	width:25%;
+	box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:50px;
+	text-align:center;
+}
+.column6{
+	width:25%;
+    box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:50px;
+	text-align:center;
+}
+.column8{
+	width:25%;
+    box-shadow: 0 0 5px 5px #e5f7f3;
+	padding:50px;
+	text-align:center;
+}
+.location{
+	font-size:50px;
+	color:#7f89bf;
+	padding:10px;
+}
+.mail{
+	font-size:50px;
+	color:#7f89bf;
+	padding:10px;
+}
+.phone{
+	font-size:50px;
+	color:#7f89bf;
+	padding:10px;
+}
+.linkedin{
+	font-size:50px;
+	color:#7f89bf;
+	padding:10px;
+}
+.location1{
+	color:#2c2a26;
+	font-size:initial;
+}
+.mail1 a{
+	text-decoration:none;
+	color:#2c2a26;
+	font-size:initial;
+}
+.phone1 a{
+	text-decoration:none;
+	color:#2c2a26;
+	font-size:initial;
+}
+.linkedin1 a{
+	text-decoration:none;
+	color:#2c2a26;
+	font-size:initial;
+}
+	
+.section5{
+	padding-top:100px;
+}
+.container5{
+	margin:auto;
+	width:100%;
+}
+.footericon{
+	background-color:#0a1228c2;
+	padding:30px;
+	width:100%;
+}
+.footericon h1{
+	color:white;
+}
+@media(min-width:320px){
+.section{
+	padding:55px;
+}
+.section1{
+	padding-top:100px;
+}
+.container1{
+	margin:auto;
+	width:80%;
+}
+.row1{
+	display:flex;
+	flex-wrap:wrap;
+}
+.column1{
+	width:100%;
+	order:2;
+}
+.col1{
+	width:100%;
+	order:1;
+}
+.section2{
+	padding-top:100px;
+}
+.container2{
+	margin:auto;
+	width:80%;
+}
+.column2{
+	display:flex;
+	flex-wrap:wrap;
+}
+.skillsimg1{
+	width:100%;
+}
+.skillsimg2{
+	width:100%;
+}
+.skillsimg3{
+	width:100%;
+}
+.skillsimg4{
+	width:100%;
+}
+.skillsimg5{
+	width:100%;
+}
+.skillsimg6{
+	width:100%;
+}
+.section3{
+	padding-top:100px;
+}
+.container3{
+	margin:auto;
+	width:80%;
+}
+.row3{
+	display:flex;
+	flex-wrap:wrap;
+}
+.column3{
+	width:100%;
+}
+.training{
+	width:100%;
+}
+.project-sec{
+	padding-top:100px;
+}
+.container-sec{
+	margin:auto;
+	width:80%;
+	padding-top:50px;
+}
+.section4{
+	padding-top:100px;
+}
+.container4{
+	margin:auto;
+	width:80%;
+}
+.row4{
+	display:flex;
+	flex-wrap:wrap;
+}
+.column4{
+	width:100%;
+}
+.column5{
+	width:100%;
+}
+.column6{
+	width:100%;
+}
+.column8{
+	width:100%;
+}
+}
+@media(min-width:690px){
+	.section{
+		padding:100px;
+	}
+.section1{
+	padding-top:100px;
+}
+.container1{
+	margin:auto;
+	width:80%;
+}
+.row1{
+	display:flex;
+	flex-wrap:wrap;
+}
+.column1{
+	width:100%;
+}
+.col1{
+	width:100%;
+}
+.container2{
+	margin:auto;
+	width:80%;
+}
+.column2{
+	display:flex;
+	flex-wrap:wrap;
+}
+.skillsimg1{
+	width:50%;
+}
+.skillsimg2{
+	width:50%;
+}
+.skillsimg3{
+	width:50%;
+}
+.skillsimg4{
+	width:50%;
+}
+.skillsimg5{
+	width:50%;
+}
+.skillsimg6{
+	width:50%;
+}
+.section3{
+	padding-top:100px;
+}
+.container3{
+	margin:auto;
+	width:80%;
+}
+.row3{
+	display:flex;
+	flex-wrap:wrap;
+}
+.column3{
+	width:100%;
+}
+.training{
+	width:100%;
+}
+.project-sec{
+	padding-top:100px;
+}
+.container-sec{
+	margin:auto;
+	width:80%;
+	padding-top:50px;
+}
+.section4{
+	padding-top:100px;
+}
+.container4{
+	margin:auto;
+	width:80%;
+}
+.row4{
+	display:flex;
+	flex-wrap:wrap;
+}
+.column4{
+	width:50%;
+}
+.column5{
+	width:50%;
+}
+.column6{
+	width:50%;
+}
+.column8{
+	width:50%;
+}
+}
+@media(min-width:1020px){
+	.section{
+		padding:150px;
+	}
+.section1{
+	padding-top:100px;
+}
+.container1{
+	margin:auto;
+	width:80%;
+}
+.row1{
+	display:flex;
+}
+.column1{
+	width:50%;
+	order:1;
+}
+.col1{
+	width:50%;
+	order:2;
+}
+.container2{
+	margin:auto;
+	width:80%;
+}
+.column2{
+	display:flex;
+	flex-wrap:wrap;
+}
+.skillsimg1{
+	width:33.3%;
+}
+.skillsimg2{
+	width:33.3%;
+}
+.skillsimg3{
+	width:33.3%;
+}
+.skillsimg4{
+	width:33.3%;
+}
+.skillsimg5{
+	width:33.3%;
+}
+.skillsimg6{
+	width:33.3%;
+}
+.section3{
+	padding-top:100px;
+}
+.container3{
+	margin:auto;
+	width:80%;
+}
+.row3{
+	display:flex;
+	flex-wrap:wrap;
+}
+.column3{
+	width:50%;
+}
+.training{
+	width:50%;
+}
+.project-sec{
+	padding-top:100px;
+}
+.container-sec{
+	margin:auto;
+	width:80%;
+	padding-top:50px;
+}
+.section4{
+	padding-top:100px;
+}
+.container4{
+	margin:auto;
+	width:80%;
+}
+.row4{
+	display:flex;
+}
+.column4{
+	width:25%;
+}
+.column5{
+	width:25%;
+}
+.column6{
+	width:25%;
+}
+.column8{
+	width:25%;
+}
+}
